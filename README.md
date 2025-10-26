@@ -4,10 +4,7 @@ This repository contains various Python projects I have created to practice and 
 Projects are written in English.
 
 ## Projects
-
-1. **Temperature Check** - Checks the temperature input and prints a message based on the value.
-2. **Grade System** - Takes a score and outputs the corresponding grade.
-3. **Even or Odd** - Determines if a number is even or odd.
-4. **Age Check** - Checks if a user is old enough to vote.
+- **If_Projects**: projects using if-else statements
+- **For_Projects**: projects using for loops
 
 More projects will be added as I learn more Python concepts like loops, functions, and object-oriented programming.
